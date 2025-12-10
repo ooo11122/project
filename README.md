@@ -157,7 +157,8 @@ print("Анализ завершен!")  # сообщение о заверше�
 | 50    | Half-Life: Opposing Force | 1999-11-01   | 1       | Gearbox Software | Valve     | windows;mac;linux | 0            | Single-player;Multi-player;Valve Anti-Cheat enabled | Action | FPS;Action;Sci-fi            | 0            | 5250             | 288              | 624              | 415             | 5000000-10000000  | 3.99  |
 
 # ПОСТРОЕНИЕ ГРАФИКОВ
-<img width="836" height="326" alt="graph1" src="https://github.com/user-attachments/assets/54148a57-59a0-483b-b893-ad83bd3ae5ab" />
+<img width="836" height="326" alt="524959180-54148a57-59a0-483b-b893-ad83bd3ae5ab" src="https://github.com/user-attachments/assets/fca52f15-a8bf-4f1f-88c1-a26c81872e41" />
+
 
 ## Ответы на бизнес-вопросы
 
